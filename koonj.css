@@ -1,0 +1,61 @@
+body{
+  background-color: darkslateblue;
+}
+.ko{
+    color:orange;
+    font-size: 20px;
+    margin-left: 5px;
+}
+.nj{
+    color:white;
+    font-size: 20px;
+    margin-left: -5px;
+
+}
+.reg{
+    color:orange;
+    font-size: 20px;
+    margin-left: 1px;
+}
+marquee{
+    background-color: white;
+    color: orange;
+    height: 60px;
+    padding-bottom: 2px;
+    padding-top: -20px;
+}
+input{
+    color: darkslateblue;
+}
+button{
+    background-color: orange;
+}
+button a{
+   
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    transition: 2s;
+}
+#title{
+    text-align: center;
+    color:white;
+}
+label{
+    color: white;
+}
+marquee{
+    background-color: white;
+    color: orange;
+    height: 60px;
+    margin: 0px;
+    padding-top: -15px;
+}
+button a:hover{
+    text-decoration: none;
+    color: orange;
+    font-size: 15px;
+}
+button:hover{
+    background-color: white;
+}
